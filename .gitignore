@@ -1,0 +1,9 @@
+/basic_rag/embed_store.py
+/basic_rag/llama_client.py
+/basic_rag/main.py
+/basic_rag/pdf_loader.py
+/basic_rag/prompt_builder.py
+/basic_rag/retriever.py
+
+#dont commit your_file.pdf
+/basic_rag/your_file.pdf
