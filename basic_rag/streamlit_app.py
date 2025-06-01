@@ -8,7 +8,7 @@ from llama_client import ask_llama
 from PyPDF2 import PdfReader
 
 st.set_page_config(page_title="📄 Chat with Your PDF", layout="wide")
-st.title("📄 Chat with Your PDF (RAG + LLaMA 3)")
+st.title("📄Chat with Your PDF (RAG + LLaMA 3)")
 st.caption("Upload a PDF, ask questions, and get local AI answers!")
 
 # --------- Upload PDF ----------
